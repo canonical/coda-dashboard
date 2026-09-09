@@ -5,8 +5,7 @@ repositories:
   - owner: canonical
     repo: ulwazi
     labels:
-      - documentation
-      - bug
+      - coda
     maintainer(s):
       name: Vladimir Izmalkov
       github: izmalk
