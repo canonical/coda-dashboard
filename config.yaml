@@ -52,6 +52,13 @@ repositories:
     contributor guide:
 
   - owner: canonical
+    repo: rockcraft
+    labels:
+      - documentation
+    maintainer(s):
+      name: Anna Sancho Vaquer
+      github: asanvaq
+    contributor guide:
     repo: launchpad-manual
     labels:
       - coda
