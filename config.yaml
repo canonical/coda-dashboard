@@ -36,7 +36,7 @@ repositories:
   - owner: canonical
     repo: chisel-docs
     labels:
-      - Documentation
+      - coda
     maintainer(s):
       name: Anna Sancho Vaquer
       github: asanvaq
