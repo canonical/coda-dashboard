@@ -59,6 +59,8 @@ repositories:
       name: Anna Sancho Vaquer
       github: asanvaq
     contributor guide:
+
+  - owner: canonical
     repo: launchpad-manual
     labels:
       - coda
